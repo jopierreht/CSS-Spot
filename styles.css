@@ -1,0 +1,33 @@
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #F0F8FF;
+}
+
+table {
+    margin: auto;
+    border: 3px solid #cd853f;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h2 {
+    color:#cd853f
+}
+
+td {
+    padding: 6px;
+    border-top: 1px solid #cd853f;
+    border-right: 3px 
+}
+
+th {
+    background-color: rgba(205,133, 63, 0.5)
+}
+
+.code {
+    background-color: beige;
+    font-family: monospace;
+}
